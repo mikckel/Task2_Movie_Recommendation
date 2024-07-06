@@ -1,8 +1,8 @@
 # Movie Recommendation System
-##Overview
+#Overview
 This project implements a movie recommendation system using collaborative filtering and matrix factorization techniques. It leverages the Singular Value Decomposition (SVD) algorithm to provide personalized movie recommendations based on user ratings.
 
-##Features
+#Features
 Collaborative Filtering: Recommends movies based on user interaction data.
 Matrix Factorization: Uses SVD to predict ratings and generate recommendations.
 Setup
