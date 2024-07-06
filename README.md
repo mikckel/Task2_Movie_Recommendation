@@ -2,7 +2,7 @@
 
 Due to file size limitations, the ratings dataset used for this project is hosted on Google Drive. You can download it using the link below:
 
-- [Download ratings Dataset]((https://drive.google.com/file/d/15LYzvSjH9p92OiRERolddFjKtMt28YTV/view?usp=drive_link))
+- [Download ratings Dataset](https://drive.google.com/file/d/15LYzvSjH9p92OiRERolddFjKtMt28YTV/view?usp=drive_link)
 
 Please ensure you have access to Google Drive to download the file.
 
