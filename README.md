@@ -1,3 +1,11 @@
+## Large Files
+
+Due to file size limitations, the ratings dataset used for this project is hosted on Google Drive. You can download it using the link below:
+
+- [Download Dataset](https://drive.google.com/your-file-link)
+
+Please ensure you have access to Google Drive to download the file.
+
 # Movie Recommendation System
 #Overview
 This project implements a movie recommendation system using collaborative filtering and matrix factorization techniques. It leverages the Singular Value Decomposition (SVD) algorithm to provide personalized movie recommendations based on user ratings.
